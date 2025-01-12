@@ -12,7 +12,7 @@ outputs:
 
 params:
   env: production  #change to production
-  keywords: [Blog, Portfolio, PaperMod, hweeren.com, hweeren, "hwee ren", "aw hwee ren", "hr",  privacy, security, GrapheneOS, Linux, Signal]
+  keywords: [hweeren, hwee ren, aw hwee ren, hr,  privacy, security, GrapheneOS, Linux, Signal]
   ShowAllPagesInArchive: true
   DateFormat: "2 January 2006"
   defaultTheme: dark
